@@ -1,7 +1,7 @@
 {
   "name": "typescript-boilerplate",
   "version": "1.0.0",
-  "main": "app.ts",
+  "main": "src/app.ts",
   "license": "MIT",
   "scripts": {
     "dev": "ts-node-dev --transpileOnly --respawn src/app.ts",
